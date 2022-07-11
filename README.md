@@ -7,3 +7,7 @@ This is an attempt at filtering and plotting live EEG signals. LSL is used for s
 - receivedata.bat is then run to start the web server and data recording
 
 ReceiveData.py was modified from [this example](https://github.com/labstreaminglayer/liblsl-Python/blob/master/pylsl/examples/ReceiveData.py).
+
+
+[Forum Post](https://openbci.com/forum/index.php?p=/discussion/3376/)
+[Reddit Post](https://www.reddit.com/r/neuro/comments/vw59g8/scipy_eeg_filtering_advice/)
