@@ -2,3 +2,7 @@ This tool shows an abstract head plot visualization of band power for an EEG str
 
 https://brainflow.readthedocs.io/en/stable/Examples.html#python-band-power
 
+![image](https://github.com/lan-party/EEG-Projects/assets/14152830/8458b8e4-2f74-4717-9d60-8ef25e105da0)
+
+
+![image](https://github.com/lan-party/EEG-Projects/assets/14152830/58d1417d-e477-411d-b474-cfbcf67364b5)
